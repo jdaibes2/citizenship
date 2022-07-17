@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 10,
+  "_latestTrackingId": 11,
   "_buttons": {
     "_submit": {
       "buttonText": "حدّد",
@@ -138,6 +138,9 @@
       },
       "_talk": {
         "ariaRegion": "This component is a talk."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       }
     },
     "_extensions": {

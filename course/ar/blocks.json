@@ -180,7 +180,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "62d294b358501b268c538f7e",
+    "_id": "62d410ba7ed20d04ccc41633",
     "_parentId": "62d17ca1398ed22b4c639687",
     "_type": "block",
     "_assessment": {
@@ -204,7 +204,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "62d295dd58501b268c538f81",
+    "_id": "62d294b358501b268c538f7e",
     "_parentId": "62d17ca1398ed22b4c639687",
     "_type": "block",
     "_assessment": {
@@ -221,6 +221,30 @@
     "body": "",
     "_classes": "",
     "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62d295dd58501b268c538f81",
+    "_parentId": "62d17ca1398ed22b4c639687",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
